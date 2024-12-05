@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vijayasuriyan thiyagarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijayasuriyan thiyagarajan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijayasuriyan-thiyagarajan-5a7b98245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijayasuriyan thiyagarajan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vijayasuriyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vijayasuriyan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/20csa60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20csa60" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/vijaya suriyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vijaya suriyan" height="30" width="40" /></a>
